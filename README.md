@@ -4,3 +4,8 @@ Pengalaman Belajar di Dicoding
 Studi Kasus Pengalaman Belajar GitHub. (Progres 38%)
 * Belajar mengenai apa itu GitHub dan alasan menggunakannya
 * Mempraktikkan cara menggunakan GitHub
+
+10 Oktober 2023
+Belajar GitHub Branch. (Progres 53%)
+* Mengenal apa itu GitHub Branch dan bagaimana cara membuatnya
+* Latihan Marge dan Pull Request
